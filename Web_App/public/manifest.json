@@ -1,0 +1,16 @@
+{
+  "name": "CounterPuff",
+  "short_name": "CounterPuff",
+  "description": "Companion app for The CounterPuff Method",
+  "start_url": "/sos",
+  "display": "standalone",
+  "background_color": "#F4F9FD",
+  "theme_color": "#0e2438",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
